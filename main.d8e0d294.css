@@ -484,7 +484,7 @@ p {
 }
 
 a.text-primary:focus, a.text-primary:hover {
-  color: #cc004d
+  color: #161853
 }
 
 .text-success {
@@ -525,7 +525,7 @@ a.text-danger:focus, a.text-danger:hover {
 }
 
 a.bg-primary:focus, a.bg-primary:hover {
-  background-color: #cc004d
+  background-color: #161853
 }
 
 .bg-success {
@@ -2416,20 +2416,20 @@ a.btn.disabled, fieldset[disabled] a.btn {
 
 .btn-primary.focus, .btn-primary:focus {
   color: #fff;
-  background-color: #cc004d;
-  border-color: #800030
+  background-color: #161853;
+  border-color: #292C6D
 }
 
 .btn-primary.active, .btn-primary:active, .btn-primary:hover, .open>.btn-primary.dropdown-toggle {
   color: #fff;
-  background-color: #cc004d;
-  border-color: #c20049
+  background-color: #161853;
+  border-color: #292C6D
 }
 
 .btn-primary.active.focus, .btn-primary.active:focus, .btn-primary.active:hover, .btn-primary:active.focus, .btn-primary:active:focus, .btn-primary:active:hover, .open>.btn-primary.dropdown-toggle.focus, .open>.btn-primary.dropdown-toggle:focus, .open>.btn-primary.dropdown-toggle:hover {
   color: #fff;
   background-color: #a8003f;
-  border-color: #800030
+  border-color: #292C6D
 }
 
 .btn-primary.active, .btn-primary:active, .open>.btn-primary.dropdown-toggle {
@@ -3967,7 +3967,7 @@ a.label:focus, a.label:hover {
 }
 
 .label-primary[href]:focus, .label-primary[href]:hover {
-  background-color: #cc004d
+  background-color: #161853
 }
 
 .label-success {
